@@ -7,7 +7,7 @@
 
 2. Demography detection
 
-+  Used **efficient deep learning model** to detect **Age**,**Gender**,**Race** etc given a facial portion of a video frame.
++  Used **FairFace** deep learning model to detect **Age**,**Gender**,**Race** etc given a facial portion of a video frame.
 
 3. Hot-zone detection
 
